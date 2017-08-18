@@ -1,0 +1,2 @@
+husky/husky_control:husky/husky_description:husky/husky_msgs:husky/husky_navigation:husky/husky_ur5_moveit_config:husky_desktop/husky_desktop:husky_desktop/husky_viz:husky_simulator/husky_gazebo:husky_simulator/husky_simulator
+-DCATKIN_DEVEL_PREFIX=/home/nox/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/nox/catkin_ws/install -G Unix Makefiles

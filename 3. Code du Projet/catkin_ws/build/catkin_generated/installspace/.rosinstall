@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/nox/catkin_ws/install/setup.sh
